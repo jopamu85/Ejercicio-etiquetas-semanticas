@@ -20,8 +20,7 @@ body
 }
 footer
 {
-  margin-top: 1px;
-  margin: black;
+  margin-top: 1px solid black;
   padding-top: 10px;
   text-align: center;
 }
